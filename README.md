@@ -34,14 +34,62 @@ qfCloud不限制同时在线的设备数量，只要您套餐流量充足，自�
 
 ## 千帆云(qfcloud)套餐价格列表
 
-| --- | --- | --- | --- | --- | --- |
-| **套餐名称** | **迷你版** | **标准版** | **加强版** | **专业版** | **旗舰版** |
-| **月流量** | 100G | 150G | 300G | 500G | 1000G |
-| **月付** | 20元 | 30元 | 50元 | 80元 | 150元 |
-| **季付** | 55元 | 85元 | 140元 | 230元 | 440元 |
-| **半年付** | 110元 | 160元 | 270元 | 450元 | 850元 |
-| **年付** | 200元 | 300元 | 500元 | 800元 | 1500元 |
-| **购买套餐** | **[点击直达qfCloud官网购买套餐](https://aff1.qfsite2.cc/#/register?code=AsQPwQgE)**  |
+<table>
+    <tbody>
+        <tr>
+            <td><strong>套餐名称</strong></td>
+            <td><strong>迷你版</strong></td>
+            <td><strong>标准版</strong></td>
+            <td><strong>加强版</strong></td>
+            <td><strong>专业版</strong></td>
+            <td><strong>旗舰版</strong></td>
+        </tr>
+        <tr>
+            <td><strong>月流量</strong></td>
+            <td>100G</td>
+            <td>150G</td>
+            <td>300G</td>
+            <td>500G</td>
+            <td>1000G</td>
+        </tr>
+        <tr>
+            <td><strong>月付</strong></td>
+            <td>20元</td>
+            <td>30元</td>
+            <td>50元</td>
+            <td>80元</td>
+            <td>150元</td>
+        </tr>
+        <tr>
+            <td><strong>季付</strong></td>
+            <td>55元</td>
+            <td>85元</td>
+            <td>&nbsp;140元</td>
+            <td>230元</td>
+            <td>440元</td>
+        </tr>
+        <tr>
+            <td><strong>半年付</strong></td>
+            <td>110元</td>
+            <td>160元</td>
+            <td>&nbsp;270元</td>
+            <td>450元</td>
+            <td>850元</td>
+        </tr>
+        <tr>
+            <td><strong>年付</strong></td>
+            <td>200元</td>
+            <td>300元</td>
+            <td>500元</td>
+            <td>800元</td>
+            <td>&nbsp;1500元</td>
+        </tr>
+        <tr>
+            <td><strong>购买套餐</strong></td>
+            <td colspan="5"><strong><a href="https://aff1.qfsite2.cc/#/register?code=AsQPwQgE">点击直达qfCloud官网购买套餐</a></strong></td>
+        </tr>
+    </tbody>
+</table>
 
 ## 千帆云(qfcloud)常见问题
 
