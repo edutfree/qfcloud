@@ -16,10 +16,7 @@ qfCloud不限制同时在线的设备数量，只要您套餐流量充足，自�
 
 ## 千帆云(qfcloud)优惠码
 
-【优惠活动】
-
-千帆云(qfcloud)618特惠包年7折优惠代码：[J999](https://xuv.cc/out/juzi)
-
+不定期更新。
 
 ## 千帆云(qfcloud)特色
 
@@ -64,7 +61,7 @@ qfCloud不限制同时在线的设备数量，只要您套餐流量充足，自�
             <td><strong>季付</strong></td>
             <td>55元</td>
             <td>85元</td>
-            <td>&nbsp;140元</td>
+            <td>140元</td>
             <td>230元</td>
             <td>440元</td>
         </tr>
@@ -72,7 +69,7 @@ qfCloud不限制同时在线的设备数量，只要您套餐流量充足，自�
             <td><strong>半年付</strong></td>
             <td>110元</td>
             <td>160元</td>
-            <td>&nbsp;270元</td>
+            <td>270元</td>
             <td>450元</td>
             <td>850元</td>
         </tr>
@@ -82,7 +79,7 @@ qfCloud不限制同时在线的设备数量，只要您套餐流量充足，自�
             <td>300元</td>
             <td>500元</td>
             <td>800元</td>
-            <td>&nbsp;1500元</td>
+            <td>1500元</td>
         </tr>
         <tr>
             <td><strong>购买套餐</strong></td>
